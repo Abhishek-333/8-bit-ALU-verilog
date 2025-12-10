@@ -1,3 +1,6 @@
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+![VLSI](https://img.shields.io/badge/Domain-VLSI-orange)
+
 # 8-bit-ALU-Verilog
 
 Simple 8-bit ALU implemented in Verilog.
